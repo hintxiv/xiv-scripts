@@ -1,0 +1,8 @@
+__pycache__/
+bin/
+clear/
+lib/
+plots/
+Pipfile.lock
+pyvenv.cfg
+
